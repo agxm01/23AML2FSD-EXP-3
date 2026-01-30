@@ -91,15 +91,6 @@ src/
 
 ---
 
-## ▶️ How to Run the Project
-```bash
-npm install
-npm start
-
-## The application will run on:
-
-http://localhost:5173
-
 ## ▶️ Screenshots -> Exp 3-1
 ![Contact Page Screenshot](./screenshots/Contact.png)
 ![About Page Screenshot](./screenshots/About-page.png)
@@ -108,3 +99,12 @@ http://localhost:5173
 ![About Page Screenshot](./screenshots/About-page.png)
 ![Home Page Screenshot](./screenshots/Home-page.png)
 
+
+## ▶️ How to Run the Project
+```bash
+npm install
+npm start
+
+## The application will run on:
+
+http://localhost:5173
