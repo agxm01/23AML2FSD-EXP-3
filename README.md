@@ -104,7 +104,6 @@ http://localhost:5173
 ![Contact Page Screenshot](./screenshots/Contact.png)
 ![About Page Screenshot](./screenshots/About-page.png)
 ![Home Page Screenshot](./screenshots/Home-page.png)
-![Contact Page Screenshot](./screenshots/Contact.png)
-![About Page Screenshot](./screenshots/About-page.png)
-![Home Page Screenshot](./screenshots/Home-page.png)
+![Contact Page Screenshot](./screenshots/Dashboard-page.png)
+![About Page Screenshot](./screenshots/Profile-page.png)
 

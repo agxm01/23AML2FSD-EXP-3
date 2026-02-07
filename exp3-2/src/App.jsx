@@ -2,6 +2,8 @@ import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
 import Dashboard from "./components/Dashboard";
 import Profile from "./components/Profile";
+import Landing from "./components/Landing";
+import Layout from "./components/Layout";
 import "./App.css";
 
 function App() {
@@ -9,16 +11,14 @@ function App() {
     <div className="app-container">
       <h1>My Portfolio SPA</h1>
 
-      <div className="btn-group">
-        <Link to="/"><button className="btn">Dashboard</button></Link>
-        <Link to="/profile"><button className="btn">Profile</button></Link>
-      </div>
-
       <div className="page-box">
         <Routes>
-          <Route path="/" element={<Dashboard />} />
-          <Route path="/profile" element={<Profile />} />
-        </Routes>
+      <Route path="/" element={<Layout />}>
+        <Route index element={<Landing />} />
+        <Route path="profile" element={<Profile />} />
+        <Route path="dashboard" element={<Dashboard />} />
+      </Route>
+    </Routes>
       </div>
     </div>
   );

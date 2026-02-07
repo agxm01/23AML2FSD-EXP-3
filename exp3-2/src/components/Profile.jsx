@@ -1,5 +1,5 @@
 import React from "react";
-import profilePic from "../assets/profile-img.png"; // optional image
+import profilePic from "../assets/Profile-img.png"; // optional image
 
 function Profile() {
   return (
@@ -14,9 +14,8 @@ function Profile() {
         />
 
         <div className="profile-info">
-          <h3>Your Name</h3>
+          <h3>Agampal Singh</h3>
           <p>B.E. Computer Science (AI & ML)</p>
-
           <h4>Projects</h4>
           <ul>
             <li>Expense Tracker Application</li>
