@@ -88,6 +88,13 @@ src/
 ├── App.css
 └── index.js
 
+## ▶️ Screenshots -> Exp 3-1
+![Contact Page Screenshot](./screenshots/Contact.png)
+![About Page Screenshot](./screenshots/About-page.png)
+![Home Page Screenshot](./screenshots/Home-page.png)
+![Contact Page Screenshot](./screenshots/Dashboard-page.png)
+![About Page Screenshot](./screenshots/Profile-page.png)
+![Landing Page Screenshot](./screenshots/Landing-page.png)
 
 ---
 
@@ -99,11 +106,3 @@ npm start
 ## The application will run on:
 
 http://localhost:5173
-
-## ▶️ Screenshots -> Exp 3-1
-![Contact Page Screenshot](./screenshots/Contact.png)
-![About Page Screenshot](./screenshots/About-page.png)
-![Home Page Screenshot](./screenshots/Home-page.png)
-![Contact Page Screenshot](./screenshots/Dashboard-page.png)
-![About Page Screenshot](./screenshots/Profile-page.png)
-
